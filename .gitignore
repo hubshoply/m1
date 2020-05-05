@@ -1,0 +1,20 @@
+# 2020-05-05 Dmitry Fedyuk https://www.upwork.com/fl/mage2pro
+# http://stackoverflow.com/questions/987142
+# http://stackoverflow.com/questions/9162919
+# http://stackoverflow.com/questions/8024924#comment15884195_8025106
+*
+!*/
+!/.editorconfig
+!/.gitignore
+!/app/code/community/Groove/**/*
+!/app/design/adminhtml/default/default/layout/hubshoply.xml
+!/app/design/adminhtml/default/default/template/hubshoply/**/*
+!/app/design/frontend/base/default/layout/hubshoply.xml
+!/app/design/frontend/base/default/template/hubshoply/**/*
+!/app/etc/modules/Groove_Hubshoply.xml
+!/CHANGELOG.md
+!/composer.json
+!/LICENSE.md
+!/modman
+!/README.md
+!/skin/adminhtml/default/default/hubshoply/**/*
